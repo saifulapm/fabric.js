@@ -1,0 +1,10 @@
+.github/
+.nyc_output/
+.vscode/
+cli_output/
+lib/*.jar
+lib/*.png
+coverage/
+test/
+test*
+.DS_Store
